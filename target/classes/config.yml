@@ -1,0 +1,31 @@
+Task-1:
+  name: "&3&lTemplate Tasks &7&l╏ &b&lTask 1"
+  material: "BOOK"
+  lore:
+    - "&7&m---------------------------------------------"
+    - "&b&lTask Information"
+    - "&7By accepting this task you will need to &bmine"
+    - "&b10 &7pieces of coal at /mine"
+    - ""
+    - "&b&lRewards"
+    - "&7If you complete this task you will be rewarded with"
+    - "&7money, money and even more money."
+    - ""
+    - "&3&lDifficulty: &7Easy!"
+    - "&7&m---------------------------------------------"
+
+Task-2:
+  name: "&3&lTemplate Tasks &7&l╏ &b&lTask 2"
+  material: "BOOK"
+  lore:
+    - "&7&m---------------------------------------------"
+    - "&b&lTask Information"
+    - "&7By accepting this task you will need to &bharvest"
+    - "&b10 &7pumpkins from the wilderness"
+    - ""
+    - "&b&lRewards"
+    - "&7If you complete this task you will be rewarded with"
+    - "&7money, money and even more money."
+    - ""
+    - "&3&lDifficulty: &7Medium!"
+    - "&7&m---------------------------------------------"
